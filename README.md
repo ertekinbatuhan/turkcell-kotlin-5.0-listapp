@@ -2,6 +2,18 @@
 
 JSONPlaceholder Users API üzerinden kullanıcı verisi çekerek MVVM mimarisi ile gösteren bir Android uygulamasıdır.
 
+## Uygulama Görselleri
+
+| 1. Kullanıcılar Sayfası | 2. Kullanıcılar Sayfası Dark Theme |
+|------|------|
+| <img src="screenshots/01-kullanicilar-sayfasi.png" alt="Kullanıcılar Sayfası" width="280" /> | <img src="screenshots/02-kullanicilar-sayfasi-dark-theme.png" alt="Kullanıcılar Sayfası Dark Theme" width="280" /> |
+| 3. Detay Sayfası | 4. Detay Sayfası Dark Theme |
+| <img src="screenshots/03-detay-sayfasi.png" alt="Detay Sayfası" width="280" /> | <img src="screenshots/04-detay-sayfasi-dark-theme.png" alt="Detay Sayfası Dark Theme" width="280" /> |
+| 5. Search Sayfası | 6. Arama Bulunamadı |
+| <img src="screenshots/05-search-sayfasi.png" alt="Search Sayfası" width="280" /> | <img src="screenshots/06-search-sonuc-bulunamadi.png" alt="Arama Bulunamadı" width="280" /> |
+| 7. Error Hatası |  |
+| <img src="screenshots/07-error-hatasi.png" alt="Error Hatası" width="280" /> |  |
+
 ## Kullanılan Teknolojiler
 
 - **Kotlin** — Ana programlama dili
