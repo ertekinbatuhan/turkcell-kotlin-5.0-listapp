@@ -122,7 +122,7 @@ Tüm string'ler (başlıklar, mesajlar, label'lar) `Constants` objesinde, tüm b
 
 1. Projeyi klonlayın:
    ```bash
-   git clone https://github.com/<kullanici-adi>/TurkcellListApp.git
+   git clone https://github.com/ertekinbatuhan/turkcell-kotlin-5.0-listapp.git
    ```
 2. Android Studio'da açın (Ladybug veya üzeri önerilir).
 3. Gradle sync işlemini bekleyin.
