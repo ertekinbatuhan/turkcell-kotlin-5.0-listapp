@@ -4,10 +4,38 @@ JSONPlaceholder Users API üzerinden kullanıcı verisi çekerek MVVM mimarisi i
 
 ## Uygulama Görselleri
 
-| Kullanıcılar Ekranı<br/><img src="screenshots/01-kullanicilar-sayfasi.png" alt="Kullanıcılar Ekranı" width="200" /> | Kullanıcılar Ekranı (Dark Theme)<br/><img src="screenshots/02-kullanicilar-sayfasi-dark-theme.png" alt="Kullanıcılar Ekranı (Dark Theme)" width="200" /> | Kullanıcı Detay Ekranı<br/><img src="screenshots/03-detay-sayfasi.png" alt="Kullanıcı Detay Ekranı" width="200" /> |
-|------|------|------|
-| Kullanıcı Detay Ekranı (Dark Theme)<br/><img src="screenshots/04-detay-sayfasi-dark-theme.png" alt="Kullanıcı Detay Ekranı (Dark Theme)" width="200" /> | Arama Ekranı<br/><img src="screenshots/05-search-sayfasi.png" alt="Arama Ekranı" width="200" /> | Arama Bulunamadı Ekranı<br/><img src="screenshots/06-search-sonuc-bulunamadi.png" alt="Arama Bulunamadı Ekranı" width="200" /> |
-| Hata Ekranı<br/><img src="screenshots/07-error-hatasi.png" alt="Hata Ekranı" width="200" /> | Hata Ekranı (Dark Theme)<br/><img src="screenshots/08-error-hatasi-dark-theme.png" alt="Hata Ekranı (Dark Theme)" width="200" /> |  |
+<table>
+  <tr>
+    <td align="center" width="33.33%"><strong>Kullanıcılar Ekranı</strong></td>
+    <td align="center" width="33.33%"><strong>Kullanıcılar Ekranı (Dark Theme)</strong></td>
+    <td align="center" width="33.33%"><strong>Kullanıcı Detay Ekranı</strong></td>
+  </tr>
+  <tr>
+    <td align="center" width="33.33%"><img src="screenshots/01-kullanicilar-sayfasi.png" alt="Kullanıcılar Ekranı" width="200" /></td>
+    <td align="center" width="33.33%"><img src="screenshots/02-kullanicilar-sayfasi-dark-theme.png" alt="Kullanıcılar Ekranı (Dark Theme)" width="200" /></td>
+    <td align="center" width="33.33%"><img src="screenshots/03-detay-sayfasi.png" alt="Kullanıcı Detay Ekranı" width="200" /></td>
+  </tr>
+  <tr>
+    <td align="center" width="33.33%"><strong>Kullanıcı Detay Ekranı (Dark Theme)</strong></td>
+    <td align="center" width="33.33%"><strong>Arama Ekranı</strong></td>
+    <td align="center" width="33.33%"><strong>Arama Bulunamadı Ekranı</strong></td>
+  </tr>
+  <tr>
+    <td align="center" width="33.33%"><img src="screenshots/04-detay-sayfasi-dark-theme.png" alt="Kullanıcı Detay Ekranı (Dark Theme)" width="200" /></td>
+    <td align="center" width="33.33%"><img src="screenshots/05-search-sayfasi.png" alt="Arama Ekranı" width="200" /></td>
+    <td align="center" width="33.33%"><img src="screenshots/06-search-sonuc-bulunamadi.png" alt="Arama Bulunamadı Ekranı" width="200" /></td>
+  </tr>
+  <tr>
+    <td align="center" width="33.33%"><strong>Hata Ekranı</strong></td>
+    <td align="center" width="33.33%"><strong>Hata Ekranı (Dark Theme)</strong></td>
+    <td align="center" width="33.33%"></td>
+  </tr>
+  <tr>
+    <td align="center" width="33.33%"><img src="screenshots/07-error-hatasi.png" alt="Hata Ekranı" width="200" /></td>
+    <td align="center" width="33.33%"><img src="screenshots/08-error-hatasi-dark-theme.png" alt="Hata Ekranı (Dark Theme)" width="200" /></td>
+    <td align="center" width="33.33%"></td>
+  </tr>
+</table>
 
 ## Kullanılan Teknolojiler
 
