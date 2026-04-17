@@ -25,15 +25,16 @@ JSONPlaceholder Users API üzerinden kullanıcı verisi çekerek MVVM mimarisi i
     <td align="center" width="33.33%"><img src="screenshots/05-search-sayfasi.png" alt="Arama Ekranı" width="200" /></td>
     <td align="center" width="33.33%"><img src="screenshots/06-search-sonuc-bulunamadi.png" alt="Arama Bulunamadı Ekranı" width="200" /></td>
   </tr>
+</table>
+
+<table>
   <tr>
-    <td align="center" width="33.33%"><strong>Hata Ekranı</strong></td>
-    <td align="center" width="33.33%"><strong>Hata Ekranı (Dark Theme)</strong></td>
-    <td align="center" width="33.33%"></td>
+    <td align="center" width="50%"><strong>Hata Ekranı</strong></td>
+    <td align="center" width="50%"><strong>Hata Ekranı (Dark Theme)</strong></td>
   </tr>
   <tr>
-    <td align="center" width="33.33%"><img src="screenshots/07-error-hatasi.png" alt="Hata Ekranı" width="200" /></td>
-    <td align="center" width="33.33%"><img src="screenshots/08-error-hatasi-dark-theme.png" alt="Hata Ekranı (Dark Theme)" width="200" /></td>
-    <td align="center" width="33.33%"></td>
+    <td align="center" width="50%"><img src="screenshots/07-error-hatasi.png" alt="Hata Ekranı" width="200" /></td>
+    <td align="center" width="50%"><img src="screenshots/08-error-hatasi-dark-theme.png" alt="Hata Ekranı (Dark Theme)" width="200" /></td>
   </tr>
 </table>
 
